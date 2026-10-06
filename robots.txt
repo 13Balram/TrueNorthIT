@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.truenorthit.ca/sitemap.xml
+
+# Block crawlers from accessing assets directly
+Disallow: /js/
+Disallow: /css/
